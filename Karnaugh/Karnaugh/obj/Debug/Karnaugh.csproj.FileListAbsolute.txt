@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Karnaugh\Karnaugh\bin\Debug\Karnaugh.exe.config
+C:\Users\ASUS\source\repos\Karnaugh\Karnaugh\bin\Debug\Karnaugh.exe
+C:\Users\ASUS\source\repos\Karnaugh\Karnaugh\bin\Debug\Karnaugh.pdb
+C:\Users\ASUS\source\repos\Karnaugh\Karnaugh\obj\Debug\Karnaugh.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Karnaugh\Karnaugh\obj\Debug\Karnaugh.Form1.resources
+C:\Users\ASUS\source\repos\Karnaugh\Karnaugh\obj\Debug\Karnaugh.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Karnaugh\Karnaugh\obj\Debug\Karnaugh.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Karnaugh\Karnaugh\obj\Debug\Karnaugh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Karnaugh\Karnaugh\obj\Debug\Karnaugh.exe
+C:\Users\ASUS\source\repos\Karnaugh\Karnaugh\obj\Debug\Karnaugh.pdb
